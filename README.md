@@ -1,2 +1,4 @@
-# kumpulanshell
-Kumpulan Shell Backdoor
+# Kumpulan Shell Backdoor
+Kalau menurut saya si Shell Backdoor itu adalah sebuah File yang terbuat dari pemrograman PHP yang sangat berguna buat para hacker, Jadi File PHP tersebut kita simpan ke dalam sebuah website tertentu dari target kita sehingga kita dapat mengontrol website tersebut kapanpun kita mau jadi Full Control :D
+
+Misalkan kita ngehack website pemerintah kita sudah mendapatkan Akses Login admin ke website pemerintah tersebut dan kita sisipkan tu Shell Backdoor kita ke dalam website Pemerintah jadi jika setahun kedepan kita ingin membuka lagi website pemerintah itu kita masih bisa masuk ke dalam Login Admin website tersebut walaupun username + password admin website tersebut sudah di ganti oleh pemerintah kita tetap bisa masuk dan bisa mengontrol website tersebut sesuka hati kita karena kita punya shell di dalam website tersebut jadi fungsinya penting banget bukan :D
